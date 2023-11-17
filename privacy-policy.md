@@ -148,10 +148,6 @@ In cases where we use automated processing or profiling that has a significant e
 
 Please note that certain exceptions and limitations may apply to your right to object to automated decision-making, as permitted by applicable laws and regulations. We will provide you with clear information regarding the implications of exercising your rights and the processes involved in objecting to automated decision-making.
 
-10. Dispute resolution
-
-Our supervisory authority is the Estonian Data Protection Inspectorate (www.aki.ee). You have the right to lodge a complaint to the supervisory authority if you believe that we have processed your personal data unlawfully or have not complied with our legal obligations.
-11. Making this notice great
 
 We hope you have found this privacy notice easy to understand.
 
